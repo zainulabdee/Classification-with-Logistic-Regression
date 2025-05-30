@@ -46,6 +46,7 @@ Steps Performed
 -----
 
 Evaluation Metrics
+
 - Confusion Matrix: Shows true positives, true negatives, false positives, and false negatives
 - Precision: How many predicted positives are truly positive
 - Recall: How many actual positives were correctly predicted
@@ -54,11 +55,13 @@ Evaluation Metrics
 -----
 
 Sigmoid Function
+
 The sigmoid function is used in logistic regression to map any real-valued number into a probability between 0 and 1.
 Formula:
   sigmoid(z) = 1 / (1 + e^(-z))
 
 -----
 Conclusion
+
 Logistic Regression was successfully used to classify breast cancer samples. The model performed well across all key metrics, and the ROC curve and sigmoid function provided deeper insights into model confidence and decision thresholds.
 
