@@ -5,6 +5,7 @@ Objective: Build and evaluate a binary classification model using logistic regre
 ----
 
 Overview
+
 This project applies logistic regression to classify tumors as malignant or benign using medical imaging features. The goal is to train a predictive model and evaluate its performance using appropriate classification metrics.
 
 ------
